@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-image: linear-gradient(to right,rgb(0,55,255), rgb(184, 28, 135));
+    height:80px;
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    background-image: linear-gradient(to right, rbg(o,55,255));
+    height: 60px;
+}
+
+nav a{
+    text-decoration: none;
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+foter img{
+    box-shadow: 10px 10px 10px 0 rgb(157,0,255);
+    margin-top: 10px;
+    margin-left: 140px;
+}
